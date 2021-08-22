@@ -7,6 +7,7 @@ In this project, I built a weather forecast application that uses third pary API
 ## Usage
 
 The final webpage is deployed at:
+https://carlosp1806.github.io/Weather-Dashboard/
 
 This is an image of the application:
 ![PageSample](Assets/Images/weather.png)
