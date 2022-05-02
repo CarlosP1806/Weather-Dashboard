@@ -6,7 +6,7 @@ This project is a weather forecast application that connects to a third party AP
 
 Visit the deployed project at:
 
-https://carlosp1806.github.io/Weather-Dashboard/
+https://carlosp1806.github.io/weather-dashboard/
 
 
 ## 🤖 Technologies Used
